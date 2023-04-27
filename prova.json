@@ -2,10 +2,10 @@
   "nodes": [
 {"id": "ado", "color": 15.287760879186788, "group":0},
 {"id": "adobe", "color": 23.054792191708895, "group":0},
-{"id": "adwords", "color": 16.916290405890713, "group":0},
+{"id": "net", "color": 16.916290405890713, "group":0},
 {"id": "ajax", "color": 34.14821646408109, "group":0},
-{"id": "algorithms", "color": 21.194509212827285, "group":0},
-{"id": "analysts", "color": 15.648571991475464, "group":0}
+{"id": "graphic", "color": 21.194509212827285, "group":0},
+{"id": "illustrator", "color": 15.648571991475464, "group":0}
     ],
   
   "links": [
